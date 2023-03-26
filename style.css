@@ -1,0 +1,75 @@
+
+div.main{
+    width: 800px;
+    margin: 0 auto;
+}
+div.sub{
+    width: 800px;
+    margin: 0 auto;
+}
+div.reference{
+    width: 49%;
+    float: left;
+}
+div.career{
+    width: 49%;
+    float :right;
+}
+
+li{
+    margin: 5px 0px
+}
+
+td{
+    color: #7b7b7b;
+    border: 1px solid #444444;
+    padding: 5px;
+}
+th{
+    color: #a7a7a7;
+    padding: 5px;
+}
+table{
+    width: 100%;
+    border: 1px solid #FFFFFF;
+    border-collapse: collapse;
+}
+
+mark{
+    border-radius: 5px;
+}
+mark.m1{
+    background-color: #cdeaff;
+}
+mark.m2{
+    background-color: #ffdbdb;
+}
+mark.m3{
+    
+    background-color: #fde3e3;
+}
+mark.m4{
+    background-color: #f0ffdb;
+}
+mark.m5{
+    background-color: #fffbdb;
+}
+mark.m6{
+    background-color: #ffdfdb;
+}
+mark.m7{
+    background-color: #ffeddb;
+}
+mark.m8{
+    background-color: #cfcfcf;
+}
+mark.m9{
+    background-color: #9f9f9f;
+}
+mark.m10{
+    background-color: #cbaeae;
+}
+
+a{
+    color: #7b7b7b;
+}
